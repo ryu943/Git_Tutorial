@@ -7,5 +7,8 @@ int main(void)
 	printf("Hello Git World!!\n");
 	printf("Hello Git World!!\n");
 
+	int num = 5;
+	printf("%d\n", num);
+
 	return 0;
 }
