@@ -7,5 +7,10 @@ int main(void)
 
 	printf("aaa\n");
 
+	for (int i = 0; i < 5; i++)
+	{
+		printf("aaa\n");
+	}
+
 	return 0;
 }
